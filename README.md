@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎮 Formulário Gamer
 
-## Getting Started
+*Ficha Retro Next* é um formulário interativo com estilo retrô 8 bits, criado com Next.js e integrado ao Firebase Firestore para armazenar os dados dos usuários. O projeto também responde com mensagens aleatórias após o envio, tornando a experiência mais divertida.
 
-First, run the development server:
+Você pode conferir o projeto funcionando aqui: [https://formulario-seven-liard.vercel.app](https://formulario-seven-liard.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# 📋 Funcionalidades principais
 
-## Learn More
+- Formulário interativo com estilo retrô 8 bits  
+- Validação básica dos campos do formulário  
+- Integração com Firebase Firestore para armazenamento dos dados  
+- Resposta dinâmica com mensagens aleatórias após o envio  
+- Layout simples, responsivo e acessível  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# 📷 Screenshot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img src="screenshot.png" alt="Screenshot do Formulário" width="600"/>
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# 🗂️ Estrutura do projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ficha-retro-next/
+├── public/ # Arquivos estáticos (imagens, fontes)
+├── src/
+│ ├── app/ # Componentes e páginas do Next.js
+│ ├── styles/ # Arquivos CSS / SCSS
+│ └── firebaseConfig.js # Configuração do Firebase
+├── .gitignore
+├── jsconfig.json
+├── next.config.mjs
+├── package.json
+├── package-lock.json
+└── README.md
+
+---
+
+# 🚀 O que aprendi
+
+- Configurar e conectar um projeto Next.js com Firebase  
+- Criar formulários controlados com React  
+- Enviar e armazenar dados no Firestore  
+- Gerar respostas dinâmicas no frontend baseadas em dados do usuário  
+- Noções básicas de UX com feedback visual e mensagens personalizadas  
+
+---
+
+# 👨‍💻 Sobre
+
+Esse projeto foi meu primeiro contato prático com backend usando Firebase, aplicado em um formulário divertido e temático para aprender tecnologias modernas como Next.js e Firebase na prática.
+
+---
+
+# 📫 Contato
+
+Fique à vontade para entrar em contato, trocar ideias ou dar feedback!
+
+- GitHub: [@bnocrv](https://github.com/bnocrv)  
+- LinkedIn: [@bnocrv](https://linkedin.com/in/bnocrv)  
