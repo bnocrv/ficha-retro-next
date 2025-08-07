@@ -6,14 +6,15 @@ Você pode conferir o projeto funcionando aqui: [https://formulario-seven-liard.
 
 ---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
----
 
 # 📋 Funcionalidades principais
 
@@ -33,18 +34,18 @@ Você pode conferir o projeto funcionando aqui: [https://formulario-seven-liard.
 
 # 🗂️ Estrutura do projeto
 
-ficha-retro-next/
-├── public/ # Arquivos estáticos (imagens, fontes)
-├── src/
-│ ├── app/ # Componentes e páginas do Next.js
-│ ├── styles/ # Arquivos CSS / SCSS
-│ └── firebaseConfig.js # Configuração do Firebase
-├── .gitignore
-├── jsconfig.json
-├── next.config.mjs
-├── package.json
-├── package-lock.json
-└── README.md
+- ficha-retro-next/
+- ├── public/ # Arquivos estáticos (imagens, fontes)
+- ├── src/
+- │ ├── app/ # Componentes e páginas do Next.js
+- │ ├── styles/ # Arquivos CSS / SCSS
+- │ └── firebaseConfig.js # Configuração do Firebase
+- ├── .gitignore
+- ├── jsconfig.json
+- ├── next.config.mjs
+- ├── package.json
+- ├── package-lock.json
+- └── README.md
 
 ---
 
